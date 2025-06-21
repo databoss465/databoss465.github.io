@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Willkommen on Raspy Ramblings</title>
+    <link>https://databoss465.github.io/</link>
+    <description>Recent content in Willkommen on Raspy Ramblings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Jun 2025 12:36:15 +0530</lastBuildDate>
+    <atom:link href="https://databoss465.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gotta start somewhere..</title>
+      <link>https://databoss465.github.io/posts/my_first_post/</link>
+      <pubDate>Sat, 21 Jun 2025 12:36:15 +0530</pubDate>
+      <guid>https://databoss465.github.io/posts/my_first_post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hey, everyone! This is the first post of what I hope will be a math blog!&lt;/p&gt;&#xA;&lt;p&gt;I think I&amp;rsquo;ll post about &lt;em&gt;LEAN4&lt;/em&gt;, proof writing, interesting problems, etc&amp;hellip;&#xA;Maybe, I&amp;rsquo;ll post a bit about my Grad School applications, when that time coems around.&lt;/p&gt;&#xA;&lt;p&gt;Stick around for cool math stuff and subscribe!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://databoss465.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://databoss465.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;whos-this-guy&#34;&gt;Who&amp;rsquo;s this guy?&lt;/h2&gt;&#xA;&lt;p&gt;I am Dattabhasvant Ghadiyaram (/dət̪t̪ɐbʱɑːs̪ʋənt̪ ɡʱəɖiːɑːrəm/). I am from Bangalore, India. I am doing my Bachelore of Science at IISc Bangalore, with a major in Mathematics. My primary interests are Math-AI, automated theorem proving, formal mathematics, complex analysis and proabability theory.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
