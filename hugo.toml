@@ -16,3 +16,15 @@ theme = 'ananke'
   name = "Blog"
   url = "/posts/"
   weight = 2
+
+  [[menu.main]]
+  identifier = "notes"
+  name = "Courses"
+  url = "/course_notes/"
+  weight = 3
+
+  [[menu.main]]
+  identifier = "cv"
+  name = "CV"
+  url = "/curriculum_vitae/"
+  weight = 4
